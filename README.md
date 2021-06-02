@@ -1,4 +1,4 @@
-## SPI_Driver_TM4C123
+# SPI_Driver_TM4C123
 
 SPI communication modules of TM4C123 microcontroller using Tiva C Launchpad. As per the nomenclature of the TM4C123x microcontroller, the name used for SPI modules is a synchronous serial interface(SSI). But it is popularly referred to as a serial peripheral interface. That is why we will use the term SPI instead of SSI.
 
@@ -14,5 +14,4 @@ These registers are used to configure SPI modules of TM4C123 in master and slave
 
 ![image](https://user-images.githubusercontent.com/17765258/120492349-48f0b500-c3ba-11eb-9d38-167f9346704d.PNG)
 
-# TM4C123 SPI Communication Code
 
