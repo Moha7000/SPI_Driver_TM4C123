@@ -15,3 +15,9 @@ These registers are used to configure SPI modules of TM4C123 in master and slave
 ![image](https://user-images.githubusercontent.com/17765258/120492349-48f0b500-c3ba-11eb-9d38-167f9346704d.PNG)
 
 
+# Testing 
+
+The driver has been tested using Tiva C as master and Arduino UNO as Slave 
+Sending a series of Characters from Tiva C to Arduino UNO and showing the output on the Serial Monitor of arduino IDE
+
+![image](https://user-images.githubusercontent.com/17765258/120497962-24e3a280-c3bf-11eb-8e4f-de6ac48a13e6.jpg)
