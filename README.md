@@ -21,3 +21,7 @@ The driver has been tested using Tiva C as master and Arduino UNO as Slave
 Sending a series of Characters from Tiva C to Arduino UNO and showing the output on the Serial Monitor of arduino IDE
 
 ![image](https://user-images.githubusercontent.com/17765258/120497962-24e3a280-c3bf-11eb-8e4f-de6ac48a13e6.jpg)
+
+# Video
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/PooC-7zyMpU/0.jpg)](https://www.youtube.com/watch?v=PooC-7zyMpU "Everything Is AWESOME")
